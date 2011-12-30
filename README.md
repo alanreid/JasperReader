@@ -1,5 +1,6 @@
 # JasperReader v0.1
 A simple jQuery Plugin to render JasperReports files in a Web browser.
+#### Note: This is experimental. It's still very buggy and definitely NOT ready for production.
 
 
 ## Requirements
