@@ -18,6 +18,7 @@ A simple jQuery Plugin to render JasperReports files in a Web browser.
     <script type="text/javascript" src="jquery.jasperreader.js"></script>
 
 2) And bind the reader to an existing DOM element: 
+
     element.JasperReader(<filename>, <sections>);
 The second parameter is a list of sections and it's optional. Renders all sections by default.
 
